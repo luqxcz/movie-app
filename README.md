@@ -1,3 +1,13 @@
+# MovieLand
+
+MovieLand is a react application that allows a user to search for any movies. It is built with ReactJS, JavaScript, HTML/CSS and OMDb API.
+
+It consumes the OMDb API to fetch all details of the movie entered by the user and display it on on the screen.
+
+## Screenshots
+
+![Movie Land](./screenshots/movieland.png?raw=true "Movie Land")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
